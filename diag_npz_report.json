@@ -1,0 +1,2862 @@
+[
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120801,
+      1
+    ],
+    "FE_shape": [
+      120801,
+      1
+    ],
+    "BA_shape": [
+      120801,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121556,
+      1
+    ],
+    "FE_shape": [
+      121556,
+      1
+    ],
+    "BA_shape": [
+      121556,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      488545,
+      1
+    ],
+    "FE_shape": [
+      488545,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_B_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121701,
+      1
+    ],
+    "FE_shape": [
+      121701,
+      1
+    ],
+    "BA_shape": [
+      121701,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485063,
+      1
+    ],
+    "FE_shape": [
+      485063,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      489125,
+      1
+    ],
+    "FE_shape": [
+      489125,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      121535,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122917,
+      1
+    ],
+    "FE_shape": [
+      122917,
+      1
+    ],
+    "BA_shape": [
+      122917,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485643,
+      1
+    ],
+    "FE_shape": [
+      485643,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_IR_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121535,
+      1
+    ],
+    "FE_shape": [
+      121535,
+      1
+    ],
+    "BA_shape": [
+      121535,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_Normal.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485643,
+      1
+    ],
+    "FE_shape": [
+      485643,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@12_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121701,
+      1
+    ],
+    "FE_shape": [
+      121701,
+      1
+    ],
+    "BA_shape": [
+      121701,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@12_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486224,
+      1
+    ],
+    "FE_shape": [
+      486224,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@12_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@12_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      484483,
+      1
+    ],
+    "FE_shape": [
+      484483,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@12_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ],
+    "FE_shape": [
+      120984,
+      1
+    ],
+    "BA_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      484483,
+      1
+    ],
+    "FE_shape": [
+      484483,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122281,
+      1
+    ],
+    "FE_shape": [
+      122281,
+      1
+    ],
+    "BA_shape": [
+      122281,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486224,
+      1
+    ],
+    "FE_shape": [
+      486224,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@3_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121719,
+      1
+    ],
+    "FE_shape": [
+      121719,
+      1
+    ],
+    "BA_shape": [
+      121719,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      488545,
+      1
+    ],
+    "FE_shape": [
+      488545,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      489125,
+      1
+    ],
+    "FE_shape": [
+      489125,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122571,
+      1
+    ],
+    "FE_shape": [
+      122571,
+      1
+    ],
+    "BA_shape": [
+      122571,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487964,
+      1
+    ],
+    "FE_shape": [
+      487964,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1730 RPM\\1730_OR@6_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121902,
+      1
+    ],
+    "FE_shape": [
+      121902,
+      1
+    ],
+    "BA_shape": [
+      121902,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487384,
+      1
+    ],
+    "FE_shape": [
+      487384,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122269,
+      1
+    ],
+    "FE_shape": [
+      122269,
+      1
+    ],
+    "BA_shape": [
+      122269,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487384,
+      1
+    ],
+    "FE_shape": [
+      487384,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121535,
+      1
+    ],
+    "FE_shape": [
+      121535,
+      1
+    ],
+    "BA_shape": [
+      121535,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121556,
+      1
+    ],
+    "FE_shape": [
+      121556,
+      1
+    ],
+    "BA_shape": [
+      121556,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_B_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121719,
+      1
+    ],
+    "FE_shape": [
+      121719,
+      1
+    ],
+    "BA_shape": [
+      121719,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487964,
+      1
+    ],
+    "FE_shape": [
+      487964,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      491446,
+      1
+    ],
+    "FE_shape": [
+      491446,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ],
+    "FE_shape": [
+      120984,
+      1
+    ],
+    "BA_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485643,
+      1
+    ],
+    "FE_shape": [
+      485643,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_IR_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_Normal.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485063,
+      1
+    ],
+    "FE_shape": [
+      485063,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@12_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122716,
+      1
+    ],
+    "FE_shape": [
+      122716,
+      1
+    ],
+    "BA_shape": [
+      122716,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@12_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@12_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122281,
+      1
+    ],
+    "FE_shape": [
+      122281,
+      1
+    ],
+    "BA_shape": [
+      122281,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@12_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      483323,
+      1
+    ],
+    "FE_shape": [
+      483323,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@12_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121719,
+      1
+    ],
+    "FE_shape": [
+      121719,
+      1
+    ],
+    "BA_shape": [
+      121719,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ],
+    "FE_shape": [
+      120984,
+      1
+    ],
+    "BA_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122281,
+      1
+    ],
+    "FE_shape": [
+      122281,
+      1
+    ],
+    "BA_shape": [
+      122281,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487384,
+      1
+    ],
+    "FE_shape": [
+      487384,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120617,
+      1
+    ],
+    "FE_shape": [
+      120617,
+      1
+    ],
+    "BA_shape": [
+      120617,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121556,
+      1
+    ],
+    "FE_shape": [
+      121556,
+      1
+    ],
+    "BA_shape": [
+      121556,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485643,
+      1
+    ],
+    "FE_shape": [
+      485643,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@3_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121902,
+      1
+    ],
+    "FE_shape": [
+      121902,
+      1
+    ],
+    "BA_shape": [
+      121902,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122281,
+      1
+    ],
+    "FE_shape": [
+      122281,
+      1
+    ],
+    "BA_shape": [
+      122281,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487964,
+      1
+    ],
+    "FE_shape": [
+      487964,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121410,
+      1
+    ],
+    "FE_shape": [
+      121410,
+      1
+    ],
+    "BA_shape": [
+      121410,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1750 RPM\\1750_OR@6_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486224,
+      1
+    ],
+    "FE_shape": [
+      486224,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121719,
+      1
+    ],
+    "FE_shape": [
+      121719,
+      1
+    ],
+    "BA_shape": [
+      121719,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121701,
+      1
+    ],
+    "FE_shape": [
+      121701,
+      1
+    ],
+    "BA_shape": [
+      121701,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121410,
+      1
+    ],
+    "FE_shape": [
+      121410,
+      1
+    ],
+    "BA_shape": [
+      121410,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      487384,
+      1
+    ],
+    "FE_shape": [
+      487384,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_B_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120801,
+      1
+    ],
+    "FE_shape": [
+      120801,
+      1
+    ],
+    "BA_shape": [
+      120801,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      381890,
+      1
+    ],
+    "FE_shape": [
+      381890,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121556,
+      1
+    ],
+    "FE_shape": [
+      121556,
+      1
+    ],
+    "BA_shape": [
+      121556,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485063,
+      1
+    ],
+    "FE_shape": [
+      485063,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486224,
+      1
+    ],
+    "FE_shape": [
+      486224,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_IR_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_Normal.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      483903,
+      1
+    ],
+    "FE_shape": [
+      483903,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@12_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122426,
+      1
+    ],
+    "FE_shape": [
+      122426,
+      1
+    ],
+    "BA_shape": [
+      122426,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@12_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486224,
+      1
+    ],
+    "FE_shape": [
+      486224,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@12_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@12_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      482742,
+      1
+    ],
+    "FE_shape": [
+      482742,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@12_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ],
+    "FE_shape": [
+      120984,
+      1
+    ],
+    "BA_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      489705,
+      1
+    ],
+    "FE_shape": [
+      489705,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120617,
+      1
+    ],
+    "FE_shape": [
+      120617,
+      1
+    ],
+    "BA_shape": [
+      120617,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      485063,
+      1
+    ],
+    "FE_shape": [
+      485063,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@3_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      484483,
+      1
+    ],
+    "FE_shape": [
+      484483,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      489125,
+      1
+    ],
+    "FE_shape": [
+      489125,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122426,
+      1
+    ],
+    "FE_shape": [
+      122426,
+      1
+    ],
+    "BA_shape": [
+      122426,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      486804,
+      1
+    ],
+    "FE_shape": [
+      486804,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1772 RPM\\1772_OR@6_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121535,
+      1
+    ],
+    "FE_shape": [
+      121535,
+      1
+    ],
+    "BA_shape": [
+      121535,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      249146,
+      1
+    ],
+    "FE_shape": [
+      249146,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122086,
+      1
+    ],
+    "FE_shape": [
+      122086,
+      1
+    ],
+    "BA_shape": [
+      122086,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      243938,
+      1
+    ],
+    "FE_shape": [
+      243938,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      120801,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122571,
+      1
+    ],
+    "FE_shape": [
+      122571,
+      1
+    ],
+    "BA_shape": [
+      122571,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      244739,
+      1
+    ],
+    "FE_shape": [
+      244739,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_B_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      63788,
+      1
+    ],
+    "FE_shape": [
+      63788,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121351,
+      1
+    ],
+    "FE_shape": [
+      121351,
+      1
+    ],
+    "BA_shape": [
+      121351,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122136,
+      1
+    ],
+    "FE_shape": [
+      122136,
+      1
+    ],
+    "BA_shape": [
+      122136,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      244339,
+      1
+    ],
+    "FE_shape": [
+      244339,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_28_DE12.npz",
+    "keys": [
+      "DE"
+    ],
+    "DE_shape": [
+      120801,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121265,
+      1
+    ],
+    "FE_shape": [
+      121265,
+      1
+    ],
+    "BA_shape": [
+      121265,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      243938,
+      1
+    ],
+    "FE_shape": [
+      243938,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_IR_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121535,
+      1
+    ],
+    "FE_shape": [
+      121535,
+      1
+    ],
+    "BA_shape": [
+      121535,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_Normal.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      243938,
+      1
+    ],
+    "FE_shape": [
+      243938,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@12_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@12_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      130549,
+      1
+    ],
+    "FE_shape": [
+      130549,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@12_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122281,
+      1
+    ],
+    "FE_shape": [
+      122281,
+      1
+    ],
+    "BA_shape": [
+      122281,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@12_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      129969,
+      1
+    ],
+    "FE_shape": [
+      129969,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@12_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@3_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121535,
+      1
+    ],
+    "FE_shape": [
+      121535,
+      1
+    ],
+    "BA_shape": [
+      121535,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@3_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121701,
+      1
+    ],
+    "FE_shape": [
+      121701,
+      1
+    ],
+    "BA_shape": [
+      121701,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@3_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      128663,
+      1
+    ],
+    "FE_shape": [
+      128663,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@3_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122281,
+      1
+    ],
+    "FE_shape": [
+      122281,
+      1
+    ],
+    "BA_shape": [
+      122281,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@3_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      124602,
+      1
+    ],
+    "FE_shape": [
+      124602,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@3_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ],
+    "FE_shape": [
+      120984,
+      1
+    ],
+    "BA_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_14_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121846,
+      1
+    ],
+    "FE_shape": [
+      121846,
+      1
+    ],
+    "BA_shape": [
+      121846,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_14_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      245140,
+      1
+    ],
+    "FE_shape": [
+      245140,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_14_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120984,
+      1
+    ],
+    "FE_shape": [
+      120984,
+      1
+    ],
+    "BA_shape": [
+      120984,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_21_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      122426,
+      1
+    ],
+    "FE_shape": [
+      122426,
+      1
+    ],
+    "BA_shape": [
+      122426,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_21_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      246342,
+      1
+    ],
+    "FE_shape": [
+      246342,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_21_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      120617,
+      1
+    ],
+    "FE_shape": [
+      120617,
+      1
+    ],
+    "BA_shape": [
+      120617,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_7_DE12.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121991,
+      1
+    ],
+    "FE_shape": [
+      121991,
+      1
+    ],
+    "BA_shape": [
+      121991,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_7_DE48.npz",
+    "keys": [
+      "DE",
+      "FE"
+    ],
+    "DE_shape": [
+      243538,
+      1
+    ],
+    "FE_shape": [
+      243538,
+      1
+    ]
+  },
+  {
+    "path": "C:\\Users\\windows\\Desktop\\CWRU_Bearing_NumPy-main\\Data\\1797 RPM\\1797_OR@6_7_FE.npz",
+    "keys": [
+      "DE",
+      "FE",
+      "BA"
+    ],
+    "DE_shape": [
+      121168,
+      1
+    ],
+    "FE_shape": [
+      121168,
+      1
+    ],
+    "BA_shape": [
+      121168,
+      1
+    ]
+  }
+]
